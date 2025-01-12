@@ -1,5 +1,14 @@
 Pedro---Carla
-Pedro---Maria
 Maria---Carla
 Maria---Ricardo
-Ricardo---Carla
+Ana---Carla
+Carla---Lucas
+Joao---Maria
+Ricardo---Joao
+Ana---Joao
+
+
+
+
+
+

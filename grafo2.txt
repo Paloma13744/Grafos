@@ -1,0 +1,7 @@
+John --- Sarah
+Sarah --- Michael
+Sarah --- Lucy
+Emma --- Lucy
+Emma --- James
+Emma --- Olivia
+Olivia --- John

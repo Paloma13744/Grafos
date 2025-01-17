@@ -1,0 +1,30 @@
+Alice --- Bob
+Helen --- Alice
+Bob --- Helen
+Charles --- Bob
+Helen --- Charles
+Grace --- Helen
+Helen --- Angelo
+Angelo --- Gabriele
+Angelo --- Paloma
+Gabriele --- Paloma
+Gabriele --- Thiago
+Angelo --- Luiz
+Thiago --- Angelo
+Charles --- Angelo
+Paloma --- Luiz
+Paloma --- Thiago
+Luiz --- Paloma
+Luiz --- Gabriele
+Luiz --- Thiago
+Bob --- Diana
+Bob --- Eve
+Angelo --- Bob
+Diana --- Eve
+
+
+
+
+
+
+

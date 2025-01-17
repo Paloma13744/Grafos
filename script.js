@@ -85,7 +85,7 @@ function drawColumnChart(connections) {  // Função para desenhar o gráfico de
   google.charts.setOnLoadCallback(() => {
     const dataTable = google.visualization.arrayToDataTable(data);
     const options = {
-      title: 'Grau de Conexoes por Pessoa',
+      title: 'Grau de Conexões por Pessoa',
       chartArea: {
         width: '70%',        
         top: 100,
